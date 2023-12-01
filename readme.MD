@@ -1,7 +1,7 @@
 # Project - WaTor
 
 ## Description
-This project is based on the [Wa-Tor simulation](https://en.wikipedia.org/wiki/Wa-Tor) , 
+This project is based on the [Wa-Tor](https://en.wikipedia.org/wiki/Wa-Tor)Simulation , 
 
 ### License
 This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. - visit the http://creativecommons.org/licenses/by-nc-sa/4.0/ page for details.
