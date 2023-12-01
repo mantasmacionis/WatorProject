@@ -37,3 +37,5 @@ The "Threads" variable was set to a number specified in the project spec, either
 ### Summary
 Increasing the Thread number appears to consistently decrease the execution time, the only time this was not true was when selecting 4 threads, selecting 4 threads consistently made the execution time the slowest, both in the best and worst case times when running with 4 threads.
 
+### List of files and what they contain
+- wator.ipynb (Jupyter labs for the charts)
