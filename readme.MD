@@ -1,7 +1,10 @@
 # Project - WaTor
 
 ## Description
-This project is based on the [Wa-Tor](https://en.wikipedia.org/wiki/Wa-Tor)Simulation , 
+This project is based on the [Wa-Tor](https://en.wikipedia.org/wiki/Wa-Tor) Simulation , The graphical output demonstrates a world with Sharks, Fishes and water. Fishes survive by moving and not being eaten while sharks survive by eating fish. 
+
+In this example [SFML](https://www.sfml-dev.org/) is utilised for the graphical output, execution measurements and [OpenMP](https://www.openmp.org/) is used for parallelization.
+The program is run with specified ThreadCount(1,2,4 or 8).
 
 ### License
 This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. - visit the http://creativecommons.org/licenses/by-nc-sa/4.0/ page for details.
