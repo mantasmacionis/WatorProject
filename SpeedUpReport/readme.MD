@@ -34,3 +34,6 @@ The "Threads" variable was set to a number specified in the project spec, either
 - Line Comparison of speeds for each thread
 <img src=https://github.com/mantasmacionis/WatorProject/blob/main/SpeedUpReport/screenshots/run.png alt="run" width="900" height="450"/>
 
+### Summary
+Increasing the Thread number appears to consistently decrease the execution time, the only time this was not true was when selecting 4 threads, selecting 4 threads consistently made the execution time the slowest, both in the best and worst case times when running with 4 threads.
+
