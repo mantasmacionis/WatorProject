@@ -15,7 +15,7 @@ This project is licensed under the Creative Commons Attribution-NonCommercial-Sh
 - https://github.com/mantasmacionis/WatorProject/
 ### How to install
 - 1 make sure you have the necessary pre requisite installations - OpenMP,SFML,gcc
-- 2 start terminal, cd to the Wator folder
+- 2 start terminal, cd to the WaTor folder
 - 3 type: make
 - 4 run the exe file using ./watorsimulation
 
