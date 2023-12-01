@@ -16,6 +16,7 @@ This project is licensed under the Creative Commons Attribution-NonCommercial-Sh
 - number of Threads: 12
 - RAM: 16gb
 - GPU: Integrated 
+- OS: Ubuntu VM
 
 ### Method
 The "Threads" variable was set to a number specified in the project spec, either 1,2,4 or 8. After the number was set, the program was run multiple times, values of the execution speeds achieved were recorded. The "Threads" variable was then changed to a threadno which had not been checked and the process was repeated.
