@@ -21,6 +21,7 @@ This project is licensed under the Creative Commons Attribution-NonCommercial-Sh
 
 ### Platform
 - VSCodium used
+- Run on Ubuntu VM
 ### TO DO
 
 ### List of files and what they contain
