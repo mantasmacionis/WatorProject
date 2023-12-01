@@ -11,7 +11,7 @@ This project is licensed under the Creative Commons Attribution-NonCommercial-Sh
 ### GIT
 - https://github.com/mantasmacionis/WatorProject/
 ### System Info
-- CPU: Ryzen 5600h
+- CPU: Ryzen 5 5600h
 - number of Cores: 6
 - number of Threads: 12
 - RAM: 16gb
