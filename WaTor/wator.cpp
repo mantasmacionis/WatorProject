@@ -3,7 +3,7 @@
  * @brief main method and WaTor implementation.
  * @author Mantas Macionis
  * @date 01-12-2023
- * @see https://github.com/mantasmacionis/ccDevLabs/
+ * @see https://github.com/mantasmacionis/WatorPorject/
  * @license Creative Commons Attribution-NonCommercial-ShareAlike 4.0
  */
 #include <SFML/Graphics.hpp>
